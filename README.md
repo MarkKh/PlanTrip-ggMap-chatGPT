@@ -1,9 +1,10 @@
-# Vue 3 + TypeScript + Vite
+# About
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This project is a web application designed to help users plan a trip to Thailand using the Google Maps API and ChatGPT API. The application is built with Vue 3 and TypeScript, providing an interactive and user-friendly interface for travel planning.
 
-## Recommended Setup
+## Technologies Used
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+- Frontend Framework: Vue 3
+- Programming Language: TypeScript
+- APIs: Google Maps API,ChatGPT API
 
-- Use [vue-tsc](https://github.com/vuejs/language-tools/tree/master/packages/tsc) for performing the same type checking from the command line, or for generating d.ts files for SFCs.
